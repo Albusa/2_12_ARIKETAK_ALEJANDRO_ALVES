@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Lerro extra main
+=======
+Adarra1
+Lerro berria adarra1
+>>>>>>> ALEJANDRO_ALVES_ADARRA
